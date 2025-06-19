@@ -19,6 +19,9 @@ This project focuses on leveraging data science techniques to provide insights, 
 - **Data Visualization** (Matplotlib, Seaborn)
 - **Web Scraping** (BeautifulSoup, Selenium)
 
+## Project demonstartion video
+
+https://github.com/user-attachments/assets/23113e38-af16-425d-9797-af2d7307a6f3
 
 
 
