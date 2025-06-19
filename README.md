@@ -10,11 +10,10 @@ This project focuses on leveraging data science techniques to provide insights, 
 - **Data Cleaning & Merging:** Handled missing values, ensured consistency, and combined multiple datasets.
 - **Exploratory Data Analysis (EDA):** Visualized trends, pricing distributions, and influential factors.
 - **Model Building:** Machine learning models (Linear Regression, Decision Trees, Ensemble Models) were used to predict property prices.
-- **Recommendation System:** Implemented a property recommendation engine using collaborative and content-based filtering.
 - **Web Application:** A Flask-based web app was developed for users to explore properties, view predictions, and receive recommendations.
 
 ## Technologies Used
-- **Python** (Pandas, NumPy, Scikit-learn, Flask)
+- **Python** (Pandas, NumPy, Scikit-learn, Streamlit)
 - **Machine Learning** (Regression Models, Recommendation Systems)
 - **Data Visualization** (Matplotlib, Seaborn)
 - **Web Scraping** (BeautifulSoup, Selenium)
